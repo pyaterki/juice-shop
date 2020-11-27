@@ -3,7 +3,7 @@ server:
   basePath: ''
 application:
   domain: smoothie.market
-  name: 'Smoothie Marget'
+  name: 'Smoothie Market'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
